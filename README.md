@@ -1,1 +1,1 @@
-Android APK build is located at "apk" file
+I send my APK build with email
